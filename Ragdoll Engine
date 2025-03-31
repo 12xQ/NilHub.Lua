@@ -2,7 +2,7 @@ pcall(function()
     game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = "NilHub | Ragdoll Engine",
         Text = "The script will be Update soon.\nServer link copied !",
-        Duration = 5
+        Duration = 999999
     })
     setclipboard("https://discord.gg/u8CXuqrkyB")
 end)
